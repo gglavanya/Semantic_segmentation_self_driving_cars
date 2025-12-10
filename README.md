@@ -91,7 +91,7 @@ Training was conducted for **up to 100 epochs** with:
 
 | Model                      | Train Loss | Val Loss   | mIoU      |
 | -------------------------- | ---------- | ---------- | --------- |
-| U-Net                      | –          | –          | –         |
+| U-Net                      | 0.174         | 0.6         | 0.336         |
 | U-Net++                    | 0.34       | 0.84       | 0.30      |
 | U-Net + SE                 | 0.33       | 0.43       | 0.29      |
 | U-Net + CBAM               | 0.70       | 0.56       | 0.339     |
